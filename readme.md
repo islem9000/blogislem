@@ -29,3 +29,7 @@ CREATION ENTITE' ARTICLE
 * symfony.exe console make:migration
 * symfony.exe console doctrine:migrations:migrate
 
+MISE à JOUR DU REPOSITORY
+* -git commit
+* -git push
+* -git status
